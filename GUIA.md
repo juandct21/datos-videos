@@ -4,7 +4,7 @@ Esta guía la sigue la tarea programada de cada día. El canal publica en españ
 
 ## Cuentas y datos fijos
 - **Instagram:** frutiverso.oficial2. Se publica con Windsor.ai (conector `instagram`, cuenta `17841417122034870`, acción `create_video_post`).
-- **TikTok:** el dueño lo sube a mano. Solo se le entrega el video y el texto.
+- **TikTok y Facebook:** el dueño los sube a mano. Solo se le entrega el video y los textos.
 - **Hosting del video:** este repositorio (público). Archivo en `videos/AAAA-MM-DD-tema.mp4`, enlace público:
   `https://raw.githubusercontent.com/juandct21/datos-videos/main/videos/AAAA-MM-DD-tema.mp4`
 - **Voz:** Speko `audio.synthesize`, voz Cartesia "Dario" `35b2cfc1-e6fb-4d69-a598-c1780612be4a`, con
@@ -33,11 +33,13 @@ Esta guía la sigue la tarea programada de cada día. El canal publica en españ
 9. **Entrega al dueño:** envíale el video con SendUserFile y, en un solo mensaje:
    - si Instagram quedó publicado o no;
    - el texto para TikTok, listo para copiar;
+   - el texto para Facebook, listo para copiar;
    - el título y la descripción para YouTube Shorts.
 
 ## Textos de publicación
 - **Instagram:** gancho en la primera línea + 1 o 2 líneas con el dato + una pregunta para comentar + "🎙️ Voz generada con IA" + 4 a 6 hashtags (generales como #DatosCuriosos #SabíasQue, más los del tema).
 - **TikTok:** más corto, con palabras clave del tema en la frase (en TikTok se busca como en Google), una pregunta y 3 a 5 hashtags.
+- **Facebook:** gancho en la primera línea + 2 o 3 líneas contando el dato + una pregunta para comentar + "🎙️ Voz generada con IA" + 2 o 3 hashtags.
 - **YouTube Shorts:** título de menos de 60 caracteres con gancho + descripción de 2 líneas + 3 hashtags.
 
 ## Reglas
