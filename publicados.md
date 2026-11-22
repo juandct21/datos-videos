@@ -8,3 +8,4 @@
 | 2026-11-18 | Longyearbyen | videos/2026-11-18-longyearbyen.mp4 | Publicado (Reel, media id 18136318321761159) |
 | 2026-11-19 | Bir Tawil | videos/2026-11-19-bir-tawil.mp4 | Publicado (Reel, media id 18082929731663856) |
 | 2026-11-20 | Baarle | videos/2026-11-20-baarle.mp4 | Publicado (Reel, media id 17957511471036146) |
+| 2026-11-21 | Llívia | videos/2026-11-21-llivia.mp4 | Publicado (Reel, media id 18138246475732967) |
